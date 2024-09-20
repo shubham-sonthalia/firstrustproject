@@ -1,3 +1,5 @@
+// Credits => https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust
+
 use std::{time::Duration, thread::sleep};
 
 enum UpdateResult {
